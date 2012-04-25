@@ -11,3 +11,5 @@ change made in feature-new-feat branch
 another change made in feature-new-feat branch
 yet another change to new feat
 new change to be stashed
+
+this is the hotfix for the feat issue!
