@@ -7,3 +7,4 @@ another change made in develop branch
 
 change made in feature-new-feat branch
 another change made in feature-new-feat branch
+yet another change to new feat
